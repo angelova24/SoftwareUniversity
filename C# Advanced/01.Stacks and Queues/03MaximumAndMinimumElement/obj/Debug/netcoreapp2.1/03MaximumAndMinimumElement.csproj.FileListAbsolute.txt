@@ -1,0 +1,23 @@
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.deps.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.pdb
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.deps.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.runtimeconfig.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.dll
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\bin\Debug\netcoreapp2.1\03MaximumAndMinimumElement.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.AssemblyInfo.cs
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.dll
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\03MaximumAndMinimumElement\obj\Debug\netcoreapp2.1\03MaximumAndMinimumElement.genruntimeconfig.cache

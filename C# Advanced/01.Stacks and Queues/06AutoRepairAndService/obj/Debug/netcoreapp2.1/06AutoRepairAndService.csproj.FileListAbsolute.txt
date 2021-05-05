@@ -1,0 +1,23 @@
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.deps.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.runtimeconfig.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.runtimeconfig.dev.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.pdb
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.csprojAssemblyReference.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.csproj.CoreCompileInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.AssemblyInfoInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.AssemblyInfo.cs
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.deps.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.runtimeconfig.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.runtimeconfig.dev.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.dll
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\bin\Debug\netcoreapp2.1\06AutoRepairAndService.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.csprojAssemblyReference.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.AssemblyInfoInputs.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.AssemblyInfo.cs
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.dll
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\06AutoRepairAndService\obj\Debug\netcoreapp2.1\06AutoRepairAndService.genruntimeconfig.cache

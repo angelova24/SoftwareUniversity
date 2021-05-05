@@ -1,0 +1,22 @@
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.deps.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.runtimeconfig.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.runtimeconfig.dev.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.pdb
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.csproj.CoreCompileInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.AssemblyInfoInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.AssemblyInfo.cs
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.deps.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.runtimeconfig.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.runtimeconfig.dev.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.dll
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\bin\Debug\netcoreapp2.1\04FastFood.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.csprojAssemblyReference.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.AssemblyInfoInputs.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.AssemblyInfo.cs
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.dll
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\04FastFood\obj\Debug\netcoreapp2.1\04FastFood.genruntimeconfig.cache

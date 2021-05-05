@@ -1,0 +1,23 @@
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.deps.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.runtimeconfig.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.runtimeconfig.dev.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.pdb
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.AssemblyInfo.cs
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.deps.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.runtimeconfig.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.runtimeconfig.dev.json
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.dll
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\bin\Debug\netcoreapp2.1\01BasicStackOperations.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.csprojAssemblyReference.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.AssemblyInfoInputs.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.AssemblyInfo.cs
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.dll
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.pdb
+C:\SoftUni\C# Development\C# Advanced May 2019\C# Advanced\Homework Stacks and Queues\01BasicStackOperations\obj\Debug\netcoreapp2.1\01BasicStackOperations.genruntimeconfig.cache
