@@ -1,0 +1,11 @@
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\bin\Debug\netcoreapp2.1\07KnightGame.deps.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\bin\Debug\netcoreapp2.1\07KnightGame.runtimeconfig.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\bin\Debug\netcoreapp2.1\07KnightGame.runtimeconfig.dev.json
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\bin\Debug\netcoreapp2.1\07KnightGame.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\bin\Debug\netcoreapp2.1\07KnightGame.pdb
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\obj\Debug\netcoreapp2.1\07KnightGame.csprojAssemblyReference.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\obj\Debug\netcoreapp2.1\07KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\obj\Debug\netcoreapp2.1\07KnightGame.AssemblyInfoInputs.cache
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\obj\Debug\netcoreapp2.1\07KnightGame.AssemblyInfo.cs
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\obj\Debug\netcoreapp2.1\07KnightGame.dll
+C:\Users\vilan\source\repos\C# Advanced May 2019\Homework Multidimensional Arrays\07KnightGame\obj\Debug\netcoreapp2.1\07KnightGame.pdb
